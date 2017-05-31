@@ -8,6 +8,7 @@ Chatterbox is a system for managing organizational ChatOps.
 * Audit Service - Stores information about messages received and sent, provides reports of same.
 * Pub/Sub Service - Provides channel mechanisms and rules engine for routing.
 * Distribution Service - Routes messages to subscribers and manages rules for same.
+* Admin Site - a website that provides information about the services above.
 
 ## Workflows
 
