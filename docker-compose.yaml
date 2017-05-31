@@ -13,4 +13,4 @@ services:
       dockerfile: Dockerfile
     image: admin
     ports:
-     - "8079:8079"
+     - "8079:80"
