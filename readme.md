@@ -11,7 +11,9 @@ Chatterbox is a system for managing organizational ChatOps.
 
 ## Workflows
 
+An administrator defines a message source, zero or more translations, one or more channels, one or more recipient groups, and one or more transmission adapters. Messages are sent from the source, identified by the API server, translated, and directed to channels.
 
+On the distribution service, channel listeners wait for messages on known channels and use transmission adapters to transmit those messages to recipients.
 
 ## Data structures
 
