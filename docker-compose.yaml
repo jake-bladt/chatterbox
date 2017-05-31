@@ -7,3 +7,10 @@ services:
     image: api
     ports:
     - "8080:8080"
+  admin:
+    build:
+      context: ./admin
+      dockerfile: Dockerfile
+    image: admin
+    ports:
+     - "8079:8079"
