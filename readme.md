@@ -17,4 +17,10 @@ On the distribution service, channel listeners wait for messages on known channe
 
 ## Data structures
 
-
+* User
+* Message Source
+* Translation
+* Channel
+* Recipient Group
+* Recipient
+* Transmission Adapter
