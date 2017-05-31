@@ -9,6 +9,10 @@ Chatterbox is a system for managing organizational ChatOps.
 * Pub/Sub Service - Provides channel mechanisms and rules engine for routing.
 * Distribution Service - Routes messages to subscribers and manages rules for same.
 
-## data structures
+## Workflows
+
+
+
+## Data structures
 
 
