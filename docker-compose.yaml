@@ -1,4 +1,4 @@
-version: 2
+version: '2'
 services:
   api:
     build:
@@ -7,4 +7,3 @@ services:
     image: api
     ports:
     - "8080:8080"
- 
